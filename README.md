@@ -1,0 +1,2 @@
+# uctanucamesajlasmauygulamasi
+java kullanılarak yapılmıştır.
