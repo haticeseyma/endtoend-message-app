@@ -1,2 +1,2 @@
-# uctanucamesajlasmauygulamasi
-java kullanılarak yapılmıştır.
+# endtoend message app
+for java.
